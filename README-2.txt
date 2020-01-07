@@ -13,3 +13,8 @@
 	CustomLog ${APACHE_LOG_DIR}/access.log combined
 
 </VirtualHost>
+
+
+
+# new project from Serega
+# https://github.com/speresypkin/laraveltest
